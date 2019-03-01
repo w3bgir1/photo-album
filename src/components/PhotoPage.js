@@ -1,7 +1,6 @@
 import * as React from 'react'
 
 export default function PhotoPage(props) {
-    console.log(props.photos)
   return (<div>
     <h1>Photos in this album</h1>
 
